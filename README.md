@@ -7,7 +7,7 @@ npm run watch
 ```
 
 ## License
-[GNU]() © 2021 TokisakiYuu
+[GNU](https://github.com/TokisakiYuu/nkc-registry/blob/main/LICENSE) © 2021 TokisakiYuu
 
 ## Maintainers
 [@TokisakiYuu](https://github.com/TokisakiYuu)
